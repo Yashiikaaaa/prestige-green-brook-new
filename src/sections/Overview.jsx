@@ -19,7 +19,7 @@ export const Overview = ({ openContactModal }) => {
           </h1>
           <p className="max-w-2xl md:text-base text-sm text-black font-body font-light">
           <span className="font-body font-bold text-xs md:text-lg ">
-         Prestige Grren Brook – Premium Plotted Development on IVC Road, North Bengaluru. <p>The plotted development extends over an area of 20 acres and hosts the best plots of dimension range of 1,500 sq. ft. to 2400 sq. ft. in the heart of the city. </p>
+         Prestige Green Brook – Premium Plotted Development on IVC Road, North Bengaluru. <p>The plotted development extends over an area of 34 acres and hosts the best plots of dimension range of 1,500 sq. ft. to 2400 sq. ft. in the heart of the city. </p>
 
           </span>
           <br />
