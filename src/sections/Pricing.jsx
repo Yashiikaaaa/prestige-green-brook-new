@@ -22,14 +22,7 @@ const Pricing = ({ openContactModal, formSubmitted }) => {
   };
 
   const propertyTypes = [
-    { 
-      type: "1500 sq.ft", 
-      price: "₹ 3.25 Cr ++", 
-      size: "2,400 Sq.ft.", 
-      image: bhk1,
-      leadSource: LEAD_SOURCES.PRICING_sqft2400, // or appropriate lead source
-      propertyType: PROPERTY_TYPES.sqft2400
-    },
+   
     { 
       type: "2400 sq.ft", 
       price: "₹ 3.25 Cr ++", 
